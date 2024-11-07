@@ -36,7 +36,7 @@
             <div class="card-body bg-white" id="printThis">
                 <div class="text-center">
                     <h4>Department of Education</h4>
-                    <h2>SINONOC NATIONAL HIGH SCHOOL</h2>
+                    <h2>ROCKET NATIONAL HIGH SCHOOL</h2>
                     <h4 class="mb-3">BIOMETRICS ATTENDANCE</h4>
                     <h4 class="text-uppercase"><?= isset($_GET['date']) ? date('F d, Y', strtotime($_GET['date'])) : date('F d, Y') ?></h4>
                 </div>
